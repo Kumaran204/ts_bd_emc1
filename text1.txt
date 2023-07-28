@@ -1,1 +1,2 @@
-Created sample text1.txt to check the text file for depolynent final datas.
+Created sample text1.txt to check the text file for deployment final data.
+It is used for testing the files in the code 
